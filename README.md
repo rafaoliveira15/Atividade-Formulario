@@ -7,6 +7,7 @@ selecionar estado e enviar.
 
 
 🧩 FERRAMENTA UTILIZADA
+
 VS Code – Utilizado para escrever, editar e organizar o código do projeto.
 
 
